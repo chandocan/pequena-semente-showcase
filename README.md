@@ -26,6 +26,7 @@
 | 🔊 **Voice synthesis** | Server-side TTS with **Piper**, backed by a serial queue (one generation at a time) |
 | 📚 **Essay correction** | Handwritten → digital text pipeline with narration/audio export (MP3) |
 | 🏛 **Community management** | Member management, notifications and reports for congregations |
+| ♿ **Accessibility** | Libras (Brazilian Sign Language) integration for Bible content — see project videos below |
 | 🛡 **Ops** | Ubuntu servers on Oracle Cloud, Nginx + HTTPS (Let's Encrypt), Docker, firewall (ufw/iptables), backups |
 
 ### Architecture
@@ -80,6 +81,21 @@ Toda a operação é minha: banco de dados, chat em tempo real, filas, TLS, fire
 - **Later iterations** — AI layer added: Gemini-powered insights, AI-mediated chat, Piper TTS narration, handwritten essay pipeline
 
 > 🔒 **Source code:** kept in a private repository. Happy to walk through architecture, code or a live demo on request.
+
+## 🎬 Demo videos (YouTube — @AmigoPython)
+
+A project like this is easier to *watch* than to describe — the channel documents its evolution year by year:
+
+| Video | What it shows |
+|---|---|
+| [Pequena Semente em Java](https://www.youtube.com/watch?v=AqmQMZ5ek9M) | Latest JavaFX client demo (recent build) |
+| [Criado a parte de Debate do projeto Pequena Semente](https://www.youtube.com/watch?v=IBbuKoonuo8) | The debate chat (where the AI agent mediates) |
+| [Colocamos uma lousa é fizemos um servidor de chat](https://www.youtube.com/watch?v=4dOGT8f3U4c) | Chat server + teaching board |
+| [Apresentação01 de como esta o projeto 2026](https://www.youtube.com/watch?v=pzRfLpmuyh4) | Full project tour (2026) |
+| [Andamento Do Projeto Bíblia com Libras](https://www.youtube.com/watch?v=ObWvDXQgmrU) | Libras accessibility feature |
+| [projeto java](https://www.youtube.com/watch?v=WpHDzW7DQNA) · [Janela Com Banco De Dados Em Java](https://www.youtube.com/watch?v=xe0Cmex6vaE) | Early Java/data layer phase (2023) |
+
+📺 Full channel: [youtube.com/@amigopython8254](https://www.youtube.com/@amigopython8254)
 
 ## 👤 Author
 
