@@ -100,6 +100,6 @@ A project like this is easier to *watch* than to describe — the channel docume
 ## 👤 Author
 
 **Jose Alfredo** — backend developer · Java/Spring Boot · Python/FastAPI · applied AI · Linux/Cloud
-GitHub: [@chandocan](https://github.com/chandocan) · LinkedIn: [jose-alfredo-dos-santos-filho](www.linkedin.com/in/jose-alfredo-dos-s-2b467b127)
+GitHub: [@chandocan](https://github.com/chandocan) · - LinkedIn: [jose-alfredo-dos-santos-filho](https://www.linkedin.com/in/jose-alfredo-dos-s-2b467b127)
 
 contributions to help me upgrade my PC, as the costs of getting a better machine are high in brazil : pix in brazi key = chandocan@gmail.com
